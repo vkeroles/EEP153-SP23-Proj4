@@ -9,12 +9,12 @@ TBD
 - 3 ..
 
 ## Meet Team Harvey Wiley 
-- Nicole Kim (Team Manager), email: nkim02@berkeley.edu | nkim02
-- Victor Keroles (Archivist), email: vkeroles@berkeley.edu | vkeroles 
-- Alexis Kanerva, email: aleksis@berkeley.edu | aleksiskanerva
-- Chloe Hess, email: chloehess@berkeley.edu | chloehess13
-- Max (Mingxuan) Xu, email: max_xu@berkeley.edu | max177777
-- Sydney Henderson, email: sydhen2002@berkeley.edu | sydhen2002
+- Nicole Kim (Team Manager), nkim02@berkeley.edu | GitHub: nkim02
+- Victor Keroles (Archivist), vkeroles@berkeley.edu | GitHub: vkeroles 
+- Alexis Kanerva, aleksis@berkeley.edu | GitHub: aleksiskanerva
+- Chloe Hess, chloehess@berkeley.edu | GitHub: chloehess13
+- Max (Mingxuan) Xu, max_xu@berkeley.edu | GitHub: max177777
+- Sydney Henderson, sydhen2002@berkeley.edu | GitHub: sydhen2002
 
 ### Collaboration
 - Google Docs for brainstorming, scheduling, outlining & documentation
