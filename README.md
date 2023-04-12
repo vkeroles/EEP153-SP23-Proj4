@@ -14,7 +14,7 @@ TBD
 - Alexis Kanerva, email: aleksis@berkeley.edu | aleksiskanerva
 - Chloe Hess, email: chloehess@berkeley.edu | chloehess13
 - Max (Mingxuan) Xu, email: max_xu@berkeley.edu | max177777
-- Sydney Henderson, email: sydhen2002@berkeley.edu | 
+- Sydney Henderson, email: sydhen2002@berkeley.edu | sydhen2002
 
 ### Collaboration
 - Google Docs for brainstorming, scheduling, outlining & documentation
