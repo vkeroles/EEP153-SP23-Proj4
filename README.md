@@ -1,12 +1,13 @@
 # Project 4 Hacking Food & Nutrition - Team Harvey Wiley 
 
 ## Topic
-TBD
+Effects of Uganda's Nutrional Action Plan
 
 ## Goals
-- 1
-- 2
-- 3 ..
+- Examine the efficacy of the Uganda's Nutrition Action Plan (2011 - 2016) using the data provided for Uganda.
+    - Did the NAP make a difference in HH ability to meet nutritional needs?  How big of a difference?
+- Evaluate what kinds of policies might be effective at improving nutritional outcomes for particular populations. 
+- Future steps: what future plans will benefit Uganda? Target popiulation? Cost?
 
 ## Meet Team Harvey Wiley 
 - Nicole Kim (Team Manager), nkim02@berkeley.edu | GitHub: nkim02
