@@ -11,7 +11,7 @@
 ## Meet Team Harvey Wiley 
 - Nicole Kim (Team Manager), nkim02@berkeley.edu | GitHub: nkim02
 - Victor Keroles (Archivist), vkeroles@berkeley.edu | GitHub: vkeroles 
-- Alexis Kanerva, aleksis@berkeley.edu | GitHub: aleksiskanerva
+- Alekis Kanerva, aleksis@berkeley.edu | GitHub: aleksiskanerva
 - Chloe Hess, chloehess@berkeley.edu | GitHub: chloehess13
 - Max (Mingxuan) Xu, max_xu@berkeley.edu | GitHub: max177777
 - Sydney Henderson, sydhen2002@berkeley.edu | GitHub: sydhen2002
