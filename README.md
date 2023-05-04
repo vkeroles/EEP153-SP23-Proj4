@@ -3,10 +3,10 @@
 ## Topic: Effects of Uganda's Nutrition Action Plan
 
 ## Goals
-- Examine the efficacy of the Uganda's Nutrition Action Plan (2011 - 2016) using the data provided for Uganda.
-    - Did the NAP make a difference in HH ability to meet nutritional needs?  How big of a difference?
-- Evaluate what kinds of policies might be effective at improving nutritional outcomes for particular populations. 
-- Future steps: what future plans will benefit Uganda? Target popiulation? Cost?
+- Examine the efficacy of the Uganda's Nutrition Action Plan (2011 - 2016) using the data provided for Uganda. 
+- Did the NAP make a difference in HH ability to meet Vitamin A, Zinc, and Iron needs? How big of a difference?
+- Evaluate what kinds of policies might be effective at improving nutritional outcomes.
+- Future steps: what future plans will benefit Uganda? 
 
 ## Meet Team Harvey Wiley 
 - Nicole Kim (Team Manager), nkim02@berkeley.edu | GitHub: nkim02
