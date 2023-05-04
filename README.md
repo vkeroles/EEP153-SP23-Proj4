@@ -1,6 +1,6 @@
 # Project 4 Hacking Food & Nutrition - Team Harvey Wiley 
 
-## Topic: Effects of Uganda's Nutrional Action Plan
+## Topic: Effects of Uganda's Nutrition Action Plan
 
 ## Goals
 - Examine the efficacy of the Uganda's Nutrition Action Plan (2011 - 2016) using the data provided for Uganda.
